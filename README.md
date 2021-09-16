@@ -1,12 +1,12 @@
 # :raising_hand_man: Hello!
 
-My name is **Jared Farmer** and on GitHub I currently go by @JFarm0. My resume can be found [here!](https://docs.google.com/document/d/1wxvgtpTNoO8J2vUHvS3lz-vZkHTJzT23yzD5g72HM6U/edit?usp=sharing)
+My name is **Jared Farmer** and I go by @JFarm0 on GitHub. My resume can be found [here!](https://docs.google.com/document/d/1wxvgtpTNoO8J2vUHvS3lz-vZkHTJzT23yzD5g72HM6U/edit?usp=sharing)
 
 ## About Me
-I am a new developer residing in the St. Louis area. I recently went through LaunchCode's LC101 program and look forward to further building my skills and knowledge base as I continue my journey into the tech field.
+I am an eager new developer residing in the St. Louis area. Recently, I went through LaunchCode's LC101 program and look forward to further building my skills and knowledge base as I continue my journey into the tech field.
 
 ## What I've learned
-While in LC101, my learning was centered around the languages of **JavaScript** and **Java**. While learning those languages, the curriculum introduced me to many other tools, frameworks and databases used in the employment of those languages.
+While in LC101, my learning was centered around the languages of **JavaScript** and **Java**. While learning those languages, the curriculum introduced me to many other libraries, tools, and frameworks used in the employment of those languages.
 
 ### These technologies included:
 * HTML5
