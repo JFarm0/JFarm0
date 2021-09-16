@@ -1,4 +1,4 @@
-# 👋 Hello!
+# :raising_hand_man: Hello!
 
 My name is **Jared Farmer** and on GitHub I currently go by @JFarm0. My resume can be found [here!](https://docs.google.com/document/d/1wxvgtpTNoO8J2vUHvS3lz-vZkHTJzT23yzD5g72HM6U/edit?usp=sharing)
 
@@ -19,7 +19,7 @@ While in LC101, my learning was centered around the languages of **JavaScript** 
 * Angular
 * MySQL
 * Thymeleaf
-* GitHub.
+* GitHub
 
 ## What I'm Learning
 Currently, in addition to working through LaunchCode's Liftoff program, I am familiarizing myself with new languages and technologies.
