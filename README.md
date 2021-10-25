@@ -1,6 +1,6 @@
 # :raising_hand_man: Hello!
 
-My name is **Jared Farmer** and I go by @JFarm0 on GitHub. My resume can be found [here!](https://docs.google.com/document/d/1wxvgtpTNoO8J2vUHvS3lz-vZkHTJzT23yzD5g72HM6U/edit?usp=sharing)
+My name is **Jared Farmer**! Thank you for visiting my GitHub. My resume can be found [here!](https://docs.google.com/document/d/1wxvgtpTNoO8J2vUHvS3lz-vZkHTJzT23yzD5g72HM6U/edit?usp=sharing)
 
 ## About Me
 I am an eager new developer residing in the St. Louis area. Recently, I went through LaunchCode's LC101 program and look forward to further building my skills and knowledge base as I continue my journey into the tech field.
